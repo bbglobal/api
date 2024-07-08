@@ -1,0 +1,29 @@
+.use-case-wrapper {
+    background-color: #fff;
+    border: 1px #f0f1f4;
+    border-radius: 12px;
+    width: 281px;
+    flex-direction: column;
+    justify-content: space-between;
+    justify-content: space-between;
+    padding: 20px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 30px 1px rgba(92, 110, 112, .15);
+}
+
+.usecase-badge {
+    background: #ecf0fe;
+    color: #5273e8;
+    text-align: center;
+    border-radius: 5px;
+    width: fit-content;
+    padding: .2rem .5rem;
+}
+
+.icon-box img {
+    width: 30px;
+    margin: 5px 0;
+}
